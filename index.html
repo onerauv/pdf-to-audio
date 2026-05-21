@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BööK</title>
+
+  <!-- CSS LINK -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://cdn-icons-png.freepik.com/512/10510/10510908.png">
+</head>
+
+<body>
+
+<header>
+  <div class="logo">BööK</div>
+  <label for="pdfUpload" class="upload-btn">📄 Upload PDF</label>
+  <input type="file" id="pdfUpload" accept="application/pdf">
+</header>
+
+<div class="container">
+
+  <!-- Left -->
+  <div class="left-card">
+    <h2>PDF Text</h2>
+    <p id="pdfText">Upload a PDF to start reading...</p>
+  </div>
+
+  <!-- Right -->
+  <div class="right-card">
+    <video id="bgVideo" autoplay muted loop playsinline>
+      <source src="https://cdn.dribbble.com/userupload/16958329/file/original-b325a2d43c22aa85b8236222bc6b02ec.mp4" type="video/mp4">
+    </video>
+    <h2>Audio</h2>
+    <p>PDF text will be shown on the left with typing + auto voice.</p>
+  </div>
+
+</div>
+
+<!-- PDF.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+
+<!-- JS LINK -->
+<script src="script.js"></script>
+
+</body>
+</html>
