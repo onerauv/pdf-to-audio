@@ -33,7 +33,7 @@ This project runs completely in the browser — no backend required.
 - HTML5
 - CSS3 (Flexbox + responsive design)
 - JavaScript (Vanilla JS)
-- [PDF.js](https://mozilla.github.io/pdf.js/)
+- PDF.js
 - Web Speech API (Text-to-Speech)
 
 ---
@@ -56,7 +56,11 @@ Works best on modern browsers:
 
 ## 📂 Project Structure
 
-
+- LICENSE
+- README.md
+- index.html
+- script.js
+- style.css
 
 ---
 
@@ -65,7 +69,7 @@ Works best on modern browsers:
 ### 1. Clone or Download
 ```copy
 
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/onerauv/pdf-to-audio.git)
 
 ```
 # Open Project
@@ -78,4 +82,4 @@ Saurav
 
 # 📜 License
 
-Mit
+MIT License
