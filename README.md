@@ -8,7 +8,7 @@ This project runs completely in the browser — no backend required.
 
 ## 🚀 Features
 
-- 📄 Upload and read PDF files directly in browser
+- 📄 Uploads and read PDF files directly in browser
 - ✍️ Typing animation effect for extracted text
 - 🔊 Auto Text-to-Speech (voice reading)
 - 🌐 Supports English & Hindi detection
