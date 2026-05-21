@@ -72,14 +72,15 @@ Works best on modern browsers:
 git clone https://github.com/onerauv/pdf-to-audio.git
 
 ```
-# Open Project
+## Open Project
 
 Just open index.html in your browser.
+![screenshot](screen.png)
 
 # 👨‍💻 Author
 
-Saurav
+### Saurav
 
 # 📜 License
 
-MIT License
+### MIT License
