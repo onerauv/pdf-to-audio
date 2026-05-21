@@ -69,7 +69,7 @@ Works best on modern browsers:
 ### 1. Clone or Download
 ```copy
 
-[git clone https://github.com/your-username/your-repo-name.git](https://github.com/onerauv/pdf-to-audio.git)
+git clone https://github.com/onerauv/pdf-to-audio.git
 
 ```
 # Open Project
